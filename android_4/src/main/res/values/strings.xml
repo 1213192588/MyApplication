@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">android_4</string>
+    <array name="classes">
+        <item>北京</item>
+        <item>上海</item>
+        <item>深圳</item>
+        <item>广州</item>
+        <item>长沙</item>
+    </array>
+</resources>
